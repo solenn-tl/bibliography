@@ -6,7 +6,7 @@
 
 * William Charles, Nathalie Aussenac-Gilles, et Nathalie Hernandez. 2023. HHT: An Approach for Representing Temporally-Evolving Historical Territories. In The Semantic Web, 419‑35. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-33455-9_25.
 
-* Denis Coquenet, Clément Chatelain, Thierry Paquet, DAN: a Segmentation-free Document Attention Network for Handwritten Document Recognition, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+* Denis Coquenet, Clément Chatelain, Thierry Paquet, DAN: a Segmentation-free Document Attention Network for Handwritten Document Recognition, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. https://arxiv.org/abs/2203.12273
 
 * Christopher Kermorvant, Structuration, reconnaissance d’écriture et extraction d’entités dans les documents manuscrits avec Arkindex, Journée Intelligence Artificielle Et Humanités Numériques, 3 mai 2024, 
 
