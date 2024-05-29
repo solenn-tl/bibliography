@@ -1,4 +1,6 @@
-# Bibliography
+# Automatic reconstruction of the genealogy of plots and buildings from historical sources
+
+## Bibliography
 
 * Camille Bernard, Marlène Villanova-Oliver, Jérôme Gensel, et Hy Dao. 2018. Modeling changes in territorial partitions over time: ontologies TSN and TSN-change. In Proceedings of the 33rd Annual ACM Symposium on Applied Computing, 866‑75. SAC ’18. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3167132.3167227
 
